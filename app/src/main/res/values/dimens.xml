@@ -1,0 +1,4 @@
+<resources>
+    <dimen name="page_margin">80dp</dimen>
+    <dimen name="pager_width">250dp</dimen>
+</resources>

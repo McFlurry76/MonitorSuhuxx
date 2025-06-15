@@ -1,0 +1,43 @@
+<resources>
+    <string name="app_name">Hyōga 氷牙</string>
+    <!-- Tombol & Label -->
+    <string name="add_device">Add Device</string>
+    <string name="cpu_label">CPU</string>
+    <string name="battery_label">Battery</string>
+    <string name="bypass_mode_label">Bypass Mode</string>
+    <!-- Menu Pengaturan -->
+    <string name="settings_about">About Hyōga</string>
+    <string name="settings_privacy">Privacy Policy</string>
+    <string name="settings_language">Language Setting</string>
+    <string name="settings_report">After Sales Repair Report</string>
+    <string name="settings_updates">Check for Updates</string>
+    <!-- Dialog Keluar -->
+    <string name="dialog_exit_title">Exit Application</string>
+    <string name="dialog_exit_message">Are you sure you want to exit?</string>
+    <string name="dialog_button_exit">Exit</string>
+    <string name="dialog_button_minimize">Minimize</string>
+    <string name="dialog_button_cancel">Cancel</string>
+    <!-- Dialog Ganti Bahasa -->
+    <string name="dialog_language_title">Select Language</string>
+    <!-- Bluetooth Statuses & Toasts -->
+    <string name="status_needs_permission">Permission needed</string>
+    <string name="status_not_supported">Bluetooth not supported</string>
+    <string name="status_bt_disabled">Bluetooth is disabled</string>
+    <string name="status_searching">Searching for devices…</string>
+    <string name="status_select_device">Select a device</string>
+    <string name="status_no_device_found">No devices found</string>
+    <string name="status_connecting_to">Connecting to %1$s…</string>
+
+    <string name="toast_permission_granted">Permissions granted. Ready to scan.</string>
+    <string name="toast_permission_denied">Permissions denied. Cannot scan.</string>
+    <string name="toast_bt_enabled">Bluetooth enabled.</string>
+    <string name="toast_bt_disabled">Bluetooth must be enabled to find devices.</string>
+    <string name="toast_scan_start">Starting scan…</string>
+    <string name="toast_device_selected">Selected: %1$s</string>
+
+    <!-- Dialog Pilih Perangkat -->
+    <string name="dialog_select_device_title">Available Devices</string>
+    <string name="toast_scan_timeout">Scan timed out. Device not found.</string>
+    <string name="scanning">Scanning…</string>
+    <string name="select_device_title">Select Device</string> <!-- Diperbarui -->
+</resources>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- File ini akan memberikan efek ripple saat disentuh -->
+<ripple xmlns:android="http://schemas.android.com/apk/res/android"
+    android:color="?android:attr/colorControlHighlight"> <!-- Warna efek ripple -->
+
+    <!-- Lapisan di bawah ripple adalah bentuk tombol itu sendiri -->
+    <item>
+        <shape android:shape="rectangle">
+            <!-- Warna ungu kebiruan yang elegan -->
+            <solid android:color="#7A60B3" />
+            <corners android:radius="100dp" /> <!-- Sudut sangat bundar -->
+        </shape>
+    </item>
+
+</ripple>

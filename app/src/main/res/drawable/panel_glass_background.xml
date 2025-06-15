@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<shape xmlns:android="http://schemas.android.com/apk/res/android"
+    android:shape="rectangle">
+
+    <!-- Warna panel kaca buram -->
+    <solid android:color="@color/frosty_glass_panel" />
+
+    <!-- Sudut yang sangat tumpul untuk kesan elegan -->
+    <corners android:radius="24dp" />
+
+    <!-- Opsional: Garis tepi tipis -->
+    <stroke
+        android:width="1dp"
+        android:color="#22000000" /> <!-- Garis tepi hitam 13% transparan -->
+</shape>

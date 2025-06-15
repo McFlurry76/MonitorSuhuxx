@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Palet Warna Frosty Glass -->
+    <color name="frosty_background">#F5F7FA</color> <!-- Putih sedikit keabu-abuan -->
+    <color name="frosty_blue_dark">#0D253F</color> <!-- Biru tua untuk teks dan ikon -->
+    <color name="frosty_accent_red">#FF3B30</color> <!-- Merah menyala untuk aksen -->
+    <color name="frosty_glass_panel">#CCFFFFFF</color> <!-- 80% Transparan Putih -->
+
+</resources>

@@ -1,0 +1,37 @@
+<resources>
+    <string name="add_device">Tambah Perangkat</string>
+    <string name="cpu_label">CPU</string>
+    <string name="battery_label">Baterai</string>
+    <string name="bypass_mode_label">Mode Bypass</string>
+    <string name="settings_about">Tentang Hyōga</string>
+    <string name="settings_privacy">Kebijakan Privasi</string>
+    <string name="settings_language">Pengaturan Bahasa</string>
+    <string name="settings_report">Laporan Perbaikan Purna Jual</string> <!-- Terjemahan diperbaiki -->
+    <string name="settings_updates">Cek Pembaruan</string>
+    <string name="dialog_exit_title">Keluar Aplikasi</string>
+    <string name="dialog_exit_message">Apakah Anda yakin ingin keluar?</string>
+    <string name="dialog_button_exit">Keluar</string>
+    <string name="dialog_button_minimize">Minimize</string>
+    <string name="dialog_button_cancel">Batal</string>
+    <string name="dialog_language_title">Pilih Bahasa</string>
+    <string name="status_needs_permission">Izin diperlukan</string>
+    <string name="status_not_supported">Bluetooth tidak didukung</string>
+    <string name="status_bt_disabled">Bluetooth tidak aktif</string>
+    <string name="status_searching">Mencari perangkat…</string>
+    <string name="status_select_device">Pilih perangkat</string>
+    <string name="status_no_device_found">Tidak ada perangkat ditemukan</string>
+    <string name="status_connecting_to">Menyambungkan ke %1$s…</string>
+
+    <string name="toast_permission_granted">Izin diberikan. Siap memindai.</string>
+    <string name="toast_permission_denied">Izin ditolak. Tidak bisa memindai.</string>
+    <string name="toast_bt_enabled">Bluetooth diaktifkan.</string>
+    <string name="toast_bt_disabled">Bluetooth harus diaktifkan untuk mencari perangkat.</string>
+    <string name="toast_scan_start">Memulai pemindaian…</string>
+    <string name="toast_device_selected">Terpilih: %1$s</string>
+
+    <!-- Dialog Pilih Perangkat -->
+    <string name="dialog_select_device_title">Perangkat Tersedia</string>
+    <string name="toast_scan_timeout">Waktu pemindaian habis. Perangkat tidak ditemukan.</string>
+    <string name="scanning">Memindai…</string> <!-- Diperbarui -->
+    <string name="select_device_title">Pilih Perangkat</string> <!-- Diperbarui -->
+</resources>
